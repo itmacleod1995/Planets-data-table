@@ -2,8 +2,9 @@ p {
     text-align: center;
 }
 
-table {
+td, th{
     border-collapse: collapse;
+    padding: 20px 10px;
 }
 
 th{
@@ -11,7 +12,13 @@ th{
     font-weight: bold;
 }
 
+
 table td {
     border: 2px solid grey;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
 }
 
