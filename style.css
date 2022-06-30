@@ -22,3 +22,15 @@ table {
     border-collapse: collapse;
 }
 
+th {
+    background-color: #ebebeb;
+}
+
+tbody tr:nth-of-type(odd) {
+    background-color: #F5F5F5;
+}
+
+.name {
+    background-color: #ebebeb;
+}
+
