@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th{
+    border: 2px solid grey;
+    font-weight: bold;
+}
+
+table td {
+    border: 2px solid grey;
+}
+
